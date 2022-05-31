@@ -1,0 +1,25 @@
+body {
+    background-color: #212529;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f8f9fa;
+}
+
+h1 {
+    text-align: center;
+}
+
+article {
+    width: 40vw;
+    margin: auto;
+}
+
+p {
+    display: inline;
+    font-size: larger;
+}
+
+label {
+    font-size: larger;
+}
+
+/* ©2022 - All Rights Reserved */
